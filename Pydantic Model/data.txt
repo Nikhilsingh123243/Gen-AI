@@ -1,0 +1,86 @@
+[
+  {
+    "product_id": "MOB001",
+    "brand": "Samsung",
+    "model": "Galaxy S24 Ultra",
+    "price": 129999.99,
+    "release_year": 2024,
+    "specs": {
+      "ram": "12GB",
+      "storage": "512GB",
+      "battery": "5000mAh",
+      "display": "6.8 inch AMOLED",
+      "processor": "Snapdragon 8 Gen 3"
+    },
+    "ratings": {
+      "average": 4.7,
+      "count": 1250
+    },
+    "in_stock": true,
+    "colors_available": ["Black", "Titanium Gray", "Violet"],
+    "discount_percent": 10
+  },
+  {
+    "product_id": "MOB002",
+    "brand": "Apple",
+    "model": "iPhone 15 Pro Max",
+    "price": 159999.00,
+    "release_year": 2023,
+    "specs": {
+      "ram": "8GB",
+      "storage": "256GB",
+      "battery": "4441mAh",
+      "display": "6.7 inch Super Retina XDR",
+      "processor": "A17 Pro"
+    },
+    "ratings": {
+      "average": 4.8,
+      "count": 2120
+    },
+    "in_stock": false,
+    "colors_available": ["Blue Titanium", "White Titanium"],
+    "discount_percent": 5
+  },
+  {
+    "product_id": "MOB003",
+    "brand": "OnePlus",
+    "model": "12R",
+    "price": 45999.00,
+    "release_year": 2024,
+    "specs": {
+      "ram": "16GB",
+      "storage": "256GB",
+      "battery": "5500mAh",
+      "display": "6.78 inch AMOLED",
+      "processor": "Snapdragon 8 Gen 2"
+    },
+    "ratings": {
+      "average": 4.5,
+      "count": 950
+    },
+    "in_stock": true,
+    "colors_available": ["Iron Gray", "Cool Blue"],
+    "discount_percent": 12
+  },
+  {
+    "product_id": "MOB004",
+    "brand": "Redmi",
+    "model": "Note 13 Pro+",
+    "price": 29999.99,
+    "release_year": 2024,
+    "specs": {
+      "ram": "8GB",
+      "storage": "256GB",
+      "battery": "5000mAh",
+      "display": "6.67 inch AMOLED",
+      "processor": "Dimensity 7200 Ultra"
+    },
+    "ratings": {
+      "average": 4.3,
+      "count": 3400
+    },
+    "in_stock": true,
+    "colors_available": ["Midnight Black", "Aurora Purple"],
+    "discount_percent": 15
+  }
+]

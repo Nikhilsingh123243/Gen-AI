@@ -1,0 +1,17 @@
+sample_text = """Machine Learning is a subset of Artificial Intelligence that enables systems to learn and improve from experience without being explicitly programmed.
+Supervised learning involves training models on labeled datasets, where both input features and target outputs are provided.
+Common supervised learning algorithms include linear regression, logistic regression, decision trees, random forests, and support vector machines.
+Unsupervised learning discovers hidden patterns in unlabeled data through clustering and dimensionality reduction techniques.
+K-means clustering, hierarchical clustering, and DBSCAN are popular unsupervised learning methods.
+Deep Learning uses neural networks with multiple layers to automatically extract features from raw data.
+Convolutional Neural Networks (CNNs) are designed for image processing and computer vision tasks.
+Recurrent Neural Networks (RNNs) and Long Short-Term Memory (LSTM) networks excel at processing sequential data and time series.
+Transformers have revolutionized natural language processing with attention mechanisms that capture long-range dependencies.
+Generative models like Generative Adversarial Networks (GANs) and Variational Autoencoders (VAEs) can create new synthetic data.
+Reinforcement learning trains agents to make optimal decisions through interaction with environments and reward signals.
+Hyperparameter tuning, cross-validation, and regularization techniques prevent overfitting in machine learning models.
+Feature engineering and normalization are crucial preprocessing steps that improve model performance.
+Gradient descent and its variants like Adam and RMSprop are fundamental optimization algorithms for training neural networks.
+Evaluation metrics such as accuracy, precision, recall, F1-score, and AUC-ROC help assess model performance.
+Transfer learning leverages pre-trained models to solve new tasks with limited data, saving computational resources.
+Ensemble methods combine multiple models to achieve better prediction accuracy than individual models."""

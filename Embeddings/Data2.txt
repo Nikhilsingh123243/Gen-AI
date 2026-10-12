@@ -1,0 +1,9 @@
+Artificial Intelligence and Machine Learning are transforming the way computers understand and process human language. 
+Natural Language Processing (NLP) enables machines to analyze text through techniques such as tokenization,
+ part-of-speech tagging, chunking, parsing, and named entity recognition.
+A typical NLP pipeline begins by dividing a document into sentences and words, removing stopwords,
+and applying stemming or lemmatization. The processed text is then analyzed to identify noun phrases,
+verb phrases, and other meaningful chunks. These chunks help extract information, classify documents,
+answer questions, summarize content, translate languages, and improve chatbot responses.
+ Modern NLP models use embeddings, transformers, attention mechanisms, and large datasets to understand context,
+semantics, syntax, and relationships between words, resulting in more accurate and intelligent language applications.
